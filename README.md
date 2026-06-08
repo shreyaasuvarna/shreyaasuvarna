@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shreya D Suvarna</h1>
-
-<p align="left" A CS undergrad, full-stack developer, and competitive programmer from Mangalore. I enjoy building real-world applications that integrate intelligent systems, from role-based platforms with AI chatbots to ML-based projects. An active learner and problem solver, I regularly solve problems across platforms like LeetCode, CodeChef, and Codeforces. Currently aspiring toward a fresher software engineering role where I can apply my skills in full-stack development, machine learning, and competitive programming to build efficient, scalable solutions — while growing within a team that values problem-solving and engineering excellence.>
+<p align="left">
+A CS undergrad, full-stack developer, and competitive programmer from Mangalore. Interested in AI and ML, I enjoy building real-world applications that combine intelligent systems with practical full-stack solutions. Currently aspiring toward a fresher software engineering role where I can apply my skills to build efficient, scalable solutions while growing within a team that values problem-solving, and engineering excellence.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
